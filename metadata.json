@@ -1,0 +1,7 @@
+{
+  "name": "Omni",
+  "description": "An AI-powered voice assistant for hotel reservations using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
